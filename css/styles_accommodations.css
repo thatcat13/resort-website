@@ -10,12 +10,12 @@ img.displayed {
 
 h1, h2 {
   text-align: center;
-
-
-
 }
 
 body {
-  font-family: "Verdana", sans-serif;
+  font-family: "Lucida Sans Unicode", sans-serif;
   background-color: #DEF5FA;
+  border-style: solid;
+  border-radius: 40px;
+  border-color: #92C2F6;
 }
